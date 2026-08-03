@@ -1,0 +1,7 @@
+name: NoSpamKick
+description: $description
+version: '${version}'
+main: net.azisaba.nospamkick.NoSpamKick
+api-version: '1.21.11'
+authors: [ Azisaba Network ]
+website: https://github.com/AzisabaNetwork/NoSpamKick
